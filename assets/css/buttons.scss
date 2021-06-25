@@ -1,0 +1,30 @@
+.btn-home {
+    @apply bg-black w-48 h-10 text-white text-xs text-center p-2 mt-11 mx-auto
+}
+.nav-log{
+  @apply  bg-gray-200 bg-opacity-20 p-4 h-14 text-sm ml-20 mt-10 text-white;
+}
+
+.btn-card{
+  @apply bg-red-800 w-24 h-11 text-white mr-60 mt-14 hover:bg-white hover:text-red-800
+}
+.dorat-btn{
+  @apply  bg-black w-80 h-10 text-white font-light mt-10 mb-10
+}
+.aqsaam-btn{
+  @apply  w-48 border  float-left ml-10 relative bg-white bg-opacity-20;
+  border-radius: 30px;
+
+}
+
+.aqsaam-btns1{
+  @apply  p-4 pr-8 text-center cursor-pointer bg-white border-0 outline-none m-0 border border-red-800 ;
+  border-radius: 30px;
+
+}
+aqsaam-btns2{
+  @apply  p-4  cursor-pointer bg-transparent border-0 outline-none m-0  ;
+  border-radius: 30px;
+
+}
+
